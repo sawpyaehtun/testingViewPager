@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myarray">
+        <item>@string/onboarding_one</item>
+        <item>@string/onboarding_two</item>
+        <item>@string/onboarding_three</item>
+        <item>@string/onboarding_four</item>
+    </string-array>
+</resources>

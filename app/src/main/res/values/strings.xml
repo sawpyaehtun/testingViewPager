@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestingViewIndicator</string>
+    <string name="onboarding_one"><font color='red'>1.SHIFT ON</font>\n Turn your shift on to start a job. \n You may toggle between device<font color='red'>*</font></string>
+    <string name="onboarding_two"><b><font size='20'>2.CHAT</font></b>\n Turn your shift on to start a job. \n You may toggle between device</string>
+    <string name="onboarding_three"><b><font size="20">3.TRIP DETAILS</font></b>\n Turn your shift on to start a job. \n You may toggle between device</string>
+    <string name="onboarding_four"><b><font size="20">4.TRIP FORM</font></b>\n Turn your shift on to start a job. \n You may toggle between device</string>
+</resources>
